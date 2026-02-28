@@ -1,61 +1,65 @@
-📘 DevQuest - Curso Full Stack (Módulo HTML)
+🚀 DevQuest Full Stack - Módulo HTML
 
-Este repositório reúne meus estudos e práticas desenvolvidos durante o curso DevQuest Full Stack.
+Repositório dedicado aos meus estudos dentro do curso DevQuest Full Stack.
 
-Aqui concentro os conteúdos do módulo de HTML, organizados por temas e exercícios práticos, com foco em construir uma base sólida para desenvolvimento web.
+Aqui documento minha evolução no módulo de HTML, organizando fundamentos, práticas e exercícios aplicados para construir uma base técnica sólida no desenvolvimento web.
 
-🚀 Objetivo do Repositório
+🎯 Objetivo
 
-Consolidar fundamentos de HTML
+Desenvolver domínio sobre:
 
-Praticar estruturação correta de páginas
+Estrutura básica de documentos HTML
 
-Aplicar semântica adequada
+Tags essenciais
 
-Compreender metatags e organização de documentos
+HTML semântico
 
-Preparar base para integração com CSS e JavaScript
+Metatags e organização de cabeçalho
 
-Este projeto representa minha evolução prática dentro da formação Full Stack.
+Estruturação de conteúdo
 
-📂 Organização
+Boas práticas de marcação
 
-Os conteúdos estão divididos por módulos:
+Este repositório representa minha progressão prática durante a formação Full Stack.
 
-atributos-links-imagens
+📂 Estrutura do Projeto
 
-comentarios
+O conteúdo está organizado por módulos:
 
-css-inline-externo-interno
+📁 atributos-links-imagens
+📁 comentarios
+📁 css-inline-externo-interno
+📁 fundamentos-html
+📁 metatags
+📁 semantica
+📁 tabelas
+📁 tags-essenciais
+📁 tags-estrutura-html
 
-fundamentos-html
-
-metatags
-
-semantica
-
-tabelas
-
-tags-essenciais
-
-tags-estrutura-html
-
-Cada pasta contém exemplos e exercícios aplicados.
+Cada diretório contém exemplos e exercícios aplicados.
 
 🛠 Tecnologias Utilizadas
 
 HTML5
 
-📈 Próximas Etapas
+📈 Próximos Passos na Formação
 
-Aplicação de CSS para estilização
+Integração com CSS
 
-Criação de layouts responsivos
+Construção de layouts completos
 
-Integração com JavaScript
+Aplicação de responsividade
 
-Desenvolvimento de projetos completos
+Manipulação de DOM com JavaScript
 
-👩‍💻 Anne Moura
+Desenvolvimento de projetos completos Full Stack
+
+👩‍💻 Sobre mim
+
+Anne Moura
 Estudante de Ciência da Computação
-Em formação para Desenvolvedora Full Stack
+Desenvolvedora Full Stack em formação
+
+Construindo base técnica sólida através de prática constante e projetos aplicados.
+
+Se quiser, o próximo passo é deixar seu perfil do GitHub ainda mais forte com organização visual entre repositórios.
