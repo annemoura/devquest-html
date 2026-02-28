@@ -4,6 +4,7 @@ Repositório dedicado aos meus estudos dentro do curso DevQuest Full Stack.
 
 Aqui documento minha evolução no módulo de HTML, organizando fundamentos, práticas e exercícios aplicados para construir uma base técnica sólida no desenvolvimento web.
 
+
 🎯 Objetivo
 
 Desenvolver domínio sobre:
@@ -22,6 +23,8 @@ Boas práticas de marcação
 
 Este repositório representa minha progressão prática durante a formação Full Stack.
 
+
+
 📂 Estrutura do Projeto
 
 O conteúdo está organizado por módulos:
@@ -38,11 +41,14 @@ O conteúdo está organizado por módulos:
 
 Cada diretório contém exemplos e exercícios aplicados.
 
+
 🛠 Tecnologias Utilizadas
 
 HTML5
 
+
 📈 Próximos Passos na Formação
+
 
 Integração com CSS
 
@@ -54,12 +60,12 @@ Manipulação de DOM com JavaScript
 
 Desenvolvimento de projetos completos Full Stack
 
+
 👩‍💻 Sobre mim
+
 
 Anne Moura
 Estudante de Ciência da Computação
 Desenvolvedora Full Stack em formação
 
 Construindo base técnica sólida através de prática constante e projetos aplicados.
-
-Se quiser, o próximo passo é deixar seu perfil do GitHub ainda mais forte com organização visual entre repositórios.
